@@ -1,0 +1,13 @@
+H:\GameDev\HomeWork1\EX_5\bin\Debug\netcoreapp3.1\EX_5.exe
+H:\GameDev\HomeWork1\EX_5\bin\Debug\netcoreapp3.1\EX_5.deps.json
+H:\GameDev\HomeWork1\EX_5\bin\Debug\netcoreapp3.1\EX_5.runtimeconfig.json
+H:\GameDev\HomeWork1\EX_5\bin\Debug\netcoreapp3.1\EX_5.runtimeconfig.dev.json
+H:\GameDev\HomeWork1\EX_5\bin\Debug\netcoreapp3.1\EX_5.dll
+H:\GameDev\HomeWork1\EX_5\bin\Debug\netcoreapp3.1\EX_5.pdb
+H:\GameDev\HomeWork1\EX_5\obj\Debug\netcoreapp3.1\EX_5.csprojAssemblyReference.cache
+H:\GameDev\HomeWork1\EX_5\obj\Debug\netcoreapp3.1\EX_5.AssemblyInfoInputs.cache
+H:\GameDev\HomeWork1\EX_5\obj\Debug\netcoreapp3.1\EX_5.AssemblyInfo.cs
+H:\GameDev\HomeWork1\EX_5\obj\Debug\netcoreapp3.1\EX_5.csproj.CoreCompileInputs.cache
+H:\GameDev\HomeWork1\EX_5\obj\Debug\netcoreapp3.1\EX_5.dll
+H:\GameDev\HomeWork1\EX_5\obj\Debug\netcoreapp3.1\EX_5.pdb
+H:\GameDev\HomeWork1\EX_5\obj\Debug\netcoreapp3.1\EX_5.genruntimeconfig.cache
