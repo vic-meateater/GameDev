@@ -1,0 +1,12 @@
+/Users/vic/Documents/GeekBrains/GameDev/HomeWork2/EX_1/bin/Debug/netcoreapp3.1/EX_1.deps.json
+/Users/vic/Documents/GeekBrains/GameDev/HomeWork2/EX_1/bin/Debug/netcoreapp3.1/EX_1.runtimeconfig.json
+/Users/vic/Documents/GeekBrains/GameDev/HomeWork2/EX_1/bin/Debug/netcoreapp3.1/EX_1.runtimeconfig.dev.json
+/Users/vic/Documents/GeekBrains/GameDev/HomeWork2/EX_1/bin/Debug/netcoreapp3.1/EX_1.dll
+/Users/vic/Documents/GeekBrains/GameDev/HomeWork2/EX_1/bin/Debug/netcoreapp3.1/EX_1.pdb
+/Users/vic/Documents/GeekBrains/GameDev/HomeWork2/EX_1/obj/Debug/netcoreapp3.1/EX_1.csprojAssemblyReference.cache
+/Users/vic/Documents/GeekBrains/GameDev/HomeWork2/EX_1/obj/Debug/netcoreapp3.1/EX_1.AssemblyInfoInputs.cache
+/Users/vic/Documents/GeekBrains/GameDev/HomeWork2/EX_1/obj/Debug/netcoreapp3.1/EX_1.AssemblyInfo.cs
+/Users/vic/Documents/GeekBrains/GameDev/HomeWork2/EX_1/obj/Debug/netcoreapp3.1/EX_1.csproj.CoreCompileInputs.cache
+/Users/vic/Documents/GeekBrains/GameDev/HomeWork2/EX_1/obj/Debug/netcoreapp3.1/EX_1.dll
+/Users/vic/Documents/GeekBrains/GameDev/HomeWork2/EX_1/obj/Debug/netcoreapp3.1/EX_1.pdb
+/Users/vic/Documents/GeekBrains/GameDev/HomeWork2/EX_1/obj/Debug/netcoreapp3.1/EX_1.genruntimeconfig.cache
