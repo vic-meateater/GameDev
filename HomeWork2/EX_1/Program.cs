@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ 
+
+
+--
+Виктор Мясоедов
+ */
+using System;
 
 namespace EX_1
 {

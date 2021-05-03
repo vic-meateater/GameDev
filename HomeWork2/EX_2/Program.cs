@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * 
+ * 
+--
+Виктор Мясоедов
+ */
+
+using System;
 
 namespace EX_2
 {
@@ -6,14 +13,21 @@ namespace EX_2
     {
         static void Main(string[] args)
         {
-            static int StringLenght(string str)
+            static int StringLenght(int numb)
             {
-                return str.Length;
+                var count = 0;
+                do
+                {
+                    count++;
+                    numb /= 10;
+                }
+                while (numb != 0);
+                return count;
             }
 
 
             Console.Write("Введите число: ");
-            string text = Convert.ToString(Console.ReadLine());
+            int text = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine($"Количества цифр в числе {text} - {StringLenght(text)}");
             Console.WriteLine("Для выхода из приложение нажмите Enter");
             Console.ReadLine();
